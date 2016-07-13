@@ -1,10 +1,10 @@
 # clib
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure wrapper for the new Interative Brokers API (9.72 still in Beta)
 
 ## Usage
 
-FIXME
+
 
 ## License
 
